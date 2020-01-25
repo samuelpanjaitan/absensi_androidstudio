@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Absen Mahasiswa D3IF</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nim">Nim</string>
+    <string name="nama">Nama</string>
+    <string name="dif01">D3IF-38-01</string>
+</resources>
